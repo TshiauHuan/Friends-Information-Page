@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Friends>
+    <Friend>
+        <name>王耶比</name>
+        <image>https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/1.jpg</image>
+        <age>20</age>
+        <!-- 1: 男, 2: 女 -->
+        <gender>1</gender>
+        <!-- 1: 打游戏, 2: 踢足球 , 3: 唱歌 -->
+        <hobby>1</hobby>
+    </Friend>
+
+    <Friend>
+        <name>小崔</name>
+        <image>https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/2.jpg</image>
+        <age>19</age>
+        <gender>1</gender>
+        <hobby>3</hobby>
+    </Friend>
+
+    <Friend>
+        <name>小杨</name>
+        <image>https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/3.jpg</image>
+        <age>19</age>
+        <gender>1</gender>
+        <hobby>2</hobby>
+    </Friend>
+
+    <Friend>
+        <name>小陈</name>
+        <image>https://web-framework.oss-cn-hangzhou.aliyuncs.com/web/4.jpg</image>
+        <age>19</age>
+        <gender>2</gender>
+        <hobby>3</hobby>
+    </Friend>
+</Friends>
